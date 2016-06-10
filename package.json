@@ -1,0 +1,19 @@
+{
+  "name": "leo-node",
+  "version": "0.0.1",
+  "description": "nodejs实战课程",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leo-work/leo-node.git"
+  },
+  "author": "leo <leo16241022@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leo-work/leo-node/issues"
+  },
+  "homepage": "https://github.com/leo-work/leo-node#readme"
+}
